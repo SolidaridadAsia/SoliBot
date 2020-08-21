@@ -1,0 +1,30 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- goodbye
+- greet
+- affirm
+- deny
+- bye
+- bot_challenge
+- sugarcane
+responses:
+  utter_greet:
+  - text: Hello! I'm SoliBot. Please feel free to ask me any question you have on Sugarcane.
+  utter_goodbye:
+  - text: Good-Bye! Take Care :)
+  utter_ask_help:
+  - text: Do you still need any help?
+  utter_iamabot:
+  - text: I am a bot, powered by Solidaridad Network.
+  utter_next:
+    - text: Alright, Please enter your next question.
+actions:
+- actions.ActionGetFAQAnswer
+- utter_greet
+- utter_goodbye
+- action_get_answer
+- utter_ask_help
+- utter_iamabot
+- utter_next

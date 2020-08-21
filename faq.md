@@ -1,0 +1,275 @@
+## intent:faq
+- In what way phosphorus is useful to sugarcane
+- What are the diagnostic symptoms in the field
+- Is it advisable to plant sugarcane in redroot affected fields
+- Which method is suitable for obtaining optimum number of millable cane from ratoon crop
+- In which soil nematode infection is predominant
+- How to differentiate the stalk symptoms with red rot
+- What is post-emergence weed management
+- What is the seed rate for cultivating sugar cane
+- Can we cultivate red rot susceptible varieties with proper plant protection methods
+- What are the new varieties of sugarcane released recently
+- Which are the serious diseases of sugarcane prevalent in regions of Tamilnadu
+- How much soil organic matter is necessary for higher sugarcane yield
+- What is the composition of cane juice
+- What are the late maturing varieties of sugarcane
+- How to control the internode borer in sugarcane
+- What is the spacing for planting sugarcane sets
+- How the red rot disease spreads in sugarcane
+- How to identify disease infection in seed canes
+- What is the recommended fertilizer dose for the pith method of sugarcane planting
+- What are the seasons for raising sugarcane nursery and planting in the main field
+- What is the role of potassium in sugarcane cultivation
+- What is the possible cause for the presence of dead heart in sugarcane
+- How do Top shoot borer enter and affect the crop
+- What are the essential qualities of good seed of sugarcane
+- What are the non flowering varieties of sugarcane
+- Why the smut affected canes show whips
+- What is Chip-bud technique
+- A light earthing up on 35th day will reduce shoot borer incidence
+- How to get farm equipments at subsidized rate under Rashtriya Krishi Vikas Yojna (RKVY)
+- What is dual row planting method of sugarcane? What is its advantage
+- How much soil organic matter is necessary for higher sugarcane yield
+- How to prevent sugarcane against termite
+- How to get good growth in late harvested sugarcane where land is always wet (low lying)
+- What type of symptoms can be seen on leaves
+- How do Internode borer enter and get effect the Sugarcane crop
+- Will the termite be controlled if irrigated
+- What are the proportions in which the organic manure has to be applied to a field inorder to cultivate sugarcane
+- In sugarcane how crop rotation done
+- Which are improved methods of sugarcane planting
+- How to get benefits of field demonstration of Sugarcane under Rashtriya Krishi Vikas Yojna (RKVY)
+- Where from the pheromone traps could be obtained
+- How the Setts of Sugarcane treated before planting
+- How to prepare land for sugarcane farming
+- How to determine the maturity / ripeness of sugarcane
+- If the Cane Grower is in military service, what priority he will get
+- How to control rat
+- How can we satisfy higher nutritional demand of sugarcane
+- How should pyrilla be controlled
+- Should an extra sticking agent added with insecticide solution for better sticking on foliage
+- How to control parastitic weed striga in sugarcane field
+- If sugarcane Production is more than cane Satta, how a farmer can increase its cane supply
+- What is Sugarcane Satta
+- What is the recommended fertilizer dose for the sugarcane plant crop
+- At what situations smut causes severe yield losses
+- Is methyl parathion dust very effective for SWA
+- How do the Leaf hopper/canefly look like
+- How the Cane Grower can get farm inputs (Fertilizer, pesticides etc.) from cane society
+- What are the control measures other than insecticide for shoot borer
+- What is the seed rate for cultivating sugar cane
+- What is the role of potassium in sugarcane cultivation
+-  How the farmers can apply for productivity award of Sugarcane
+- How to control the white grub incidence in sugarcane
+- Which season is best for planting sugarcane
+- What are the benefits of paired row cultivation
+- What are the measures to be taken for high yield of sugarcane
+- Which season is best for planting sugarcane in Kerala
+- What are the seasons is best for planting sugarcane in Tamil Nadu
+- What is the fertilizer dose to be used in nursery plot for sugarcane
+- Will mixing of used engine oil or kerosene in irrigation water give protection against termites
+- How to get benefit of different Schemes under Rashtriya Krishi Vikas Yojna (RKVY)
+- What is the Pre-emergence weed management
+- What are the varieties that are suitable to kerala
+- Why is not shoot borer controlled even after the application of lindane or chlorpyriphos
+- How to minimize post harvest deterioration in sugarcane
+- What are the schemes included in district plan of Sugarcane Department
+- What are the suitable methods of irrigation of sugarcane crop
+- How many labourers are required to cut Bud chips for one hectare
+- Will termite attack be more in light soils
+- What is to be done after noticing the first symptoms
+- How many days of sugarcane field should be maintain weed free
+- What type of soil is suitable for growing sugarcane
+- How drought effect can be distinguished from other stresses
+- What is dual row planting method of sugarcane? What is its advantage
+- What are the seasons for raising sugarcane nursery and planting in the main field
+- How to control flowering in sugarcane
+- What are the symptoms caused by white fly attack in sugarcane
+- How it affects the crop yield
+- What are the factors that affect the quality of the juice
+- How to identify disease infection in seed canes
+- What is the role of Phosphorus in sugarcane
+- What are the seasons is best for planting sugarcane in Karnataka
+- How to prepare a wetland for cultivating sugarcane after harvesting paddy
+- How should termite mounds be eradicated
+- What are the essential qualities of good seed of sugarcane
+- Since Thimet granules have powerful odour, SWA is effectively controlled even when they are placed in perforated polythene bags and the bags are hung at different places in the cane field.
+- Since only male moths are attracted to the traps it will not be of any use? Why not we attract the female moths also
+- What is sub surface drip irrigation
+- What are the irrigation intervals in each phase of sugarcane that must be given
+- What are the pheromone traps
+- Can we use the same pheromone for any pest
+- Is Thimet granule application very effective for SWA
+- Which crop competition of Sugarcane is organized in Uttar Pradesh
+- Can detrashing be effective for INB management
+- Please tell the suitable gap filling material and when gap should be filled in ratoon crop
+- Can we use cats, snakes, owls for rat control
+- What is trash mulching
+- What are the key aspects related to sustainable sugarcane farming
+- How to control the wooly aphid pest infestation in sugarcane
+- How can we conserve our soil fertility
+- Up to what level of disease seed selection can be permitted
+- In which season the disease spreads fast
+- What pest attacks the internode portion of sugarcane reducing its quality ultimately
+- In which season the disease spread fast
+- What are the major beneficiary insects of sugarcane
+- How to control the incidence of sugarcane nematodes
+- How to prevent sugarcane against termite
+- What are the advantages in tissue culture of sugarcane
+- When to use fertilizers after transplantation of sugarcane settlings
+- Is there any microbial agent for SWA control
+- Suppose the maintenance of pheromone traps is poor in deployed field, the moths attracted from adjacent fields will not be killed and so the population of the moth in the pheromone deployed field will rise which could have increased the incidence
+- Within how many days gap filling has to be done
+- How to control wilt
+- What are the factors enhancing disease severity
+- What are the Schemes included in Rashtriya Krishi Vikas Yojna (RKVY)
+- What are the typical symptoms
+- Which seasons does this Top shoot borer effect the crop? Activity of the top shoot borer starts with the onset of the monsoon rains. How to differentiate the INB and top borer dead hearts
+- What is the right method of fertilizer application during onset of monsoon
+- What is recommended dose of bio-fertilizer use in sugarcane.
+- When to use fertilizer after transplantation of sugarcane settlings
+- What is the Pooka(h) Boeng disease in sugarcane? What is the remedial method to control Pooka Boeng
+- Even after Trichogramma chilonis release the dead heart formation by INB is not reduce. Why
+- Which are the varieties suitable to Karnataka
+- Is it amenable for heat therapy
+- Can SWA attack any other crop
+- For how many days, the sugarcane field should be maintained weed free
+- What is method of trash mulching and their advantages in ratoon crop.
+- What are the effects of lowering on cane yield and quality
+- What is the optimum temperature for germination of sugarcane
+- What is the significance of land leveling in sugarcane farming
+- SWA is spreading to the entire field within 10 days.
+- How to control white grubs in standing sugarcane crop
+- under what situation sugarcane leaves become yellow
+- What size of pits can be made to plant sugarcane? Or How to prepare pits for sugarcane planting
+- Effectiveness of fungicide control
+- Why do the affected canes turn bushy
+- Is Rashtriya Krishi Vikas Yojna (RKVY) implemented in Sugarcane Department
+- What cares can to be taken in seed nurseries 
+- How to control mealy bug infestation in sugarcane
+- How one can get breeder seed under Rashtriya Krishi Vikas Yojna (RKVY)
+- How much rainfall is required for cultivating sugarcane
+- Dose SWA cause itching on the body
+- How do the Leaf hopper/canefly Quality of juice effected
+- What are the advantages in tissue culture of sugarcane
+- What is the suitable planting method for improving sugarcane production under early drought and late waterlogged conditions
+- Which is the best chemical for poison baiting of rats
+- Can the affected crop be rationed
+- Please inform about the symptoms of zinc deficiency in sugarcane and measures for its amelioration.
+- Which method of planting is suitable for late conditions
+- How much nitrogen is required for Sugarcane Crop
+- What are the biological control methods for wooly aphids in sugarcane
+- What is the spacing for planting sugarcane setts
+- Will it cause more damages in ratoon
+- What are the possible intercrops for sugarcane
+- Within how many days gap filling was done
+- What is propping
+- What are the salient features of sugarcane varieties
+- What is the rate of planting sugarcane setts in a row
+- What is technology detail of ring-pit method
+- What are the side effects of pheromones
+- What is the spaced transplanting method
+- What is the control measure for scale insect
+- What are the methods to control pyrilla in sugarcane crop
+- What are the seasons best suited for planting sugarcane
+- What are the possible intercrops for sugarcane
+- 70. What are the management practices to be followed under water logged situation
+- What is the optimum temperature for germination of sugarcane
+- How to control the internode borer in sugarcane
+- What is sustainable sugarcane farming
+- How do the Mealybug Pest effect the Sugarcane Juice
+- Suggest the herbicides suitable for control of weeds in sugarcane
+- Why is INB attack increasing more nowadays
+- Where we can get predators of SWA
+- What are the benefits of de-trashing sugarcane
+- What is suitable time of planting for sugarcane
+- When the symptoms will be manifested
+- What are the proportions in which the organic manure has to be applied to a field in order to cultivate sugarcane
+- Factors enhancing disease severity
+- In fields set with pheromone traps for internode borer, its attack was more while the adjacent fields where pheromone traps were not set was having less INB. Could the reason be that moths are attracted from that field to our fields
+- What are the new varieties of sugarcane released recently
+- What is the sett treatment to control the red rot disease
+- What all are the good varieties of sugarcane
+- There is no special smell in the rubber septa supplied by the firms? How to find out they are genuine?
+- What is the chemical control measure for early shoot borer
+- How to manage weeds in sugarcane field with intercropping system
+- What is the role of nitrogen in sugarcane cultivation
+- Even if termite mounds are not there in the vicinity termite attack is seen in the field
+- What other diseases may look like smut
+- What is fertigation system
+- At what stage the drought effect is critical to sugarcane
+- Is there any ill-effects of high dose N fertilizers
+- How to prepare a wetland for cultivating sugarcane after harvesting paddy
+- The dead shoots of plants have a lot of small white larvae. Are they the causative agents
+- What is the Spaced transplanting method
+- What should be the space between two rows
+- What is the role of nitrogen in sugarcane cultivation
+- Why should not power sprayer is used for applying insecticides for shoot borer control
+- What are the varieties that serves best for TamilNadu under drought conditions
+- What is surface drip irrigation
+- How to control flowering in sugarcane
+- Which are the serious diseases of sugarcane prevalent in our mill zones
+- In varieties pertaining to Kerala which are tolerant to red rot
+- Will trash mulching reduce shoot borer incidence
+- How to control the wooly aphid pest infestation in sugarcane
+- How to manage weeds in ratoon crop of sugarcane field
+- How to manage the white fly damage
+- How to control the parastitic weed Striga in sugarcane field
+- How to conduct a pre-harvest maturity survey in sugar factory
+- Any predators are available for use against rats
+- How to manage weeds in plant crop of sugarcane field
+- What are the major beneficial insects of sugarcane
+- Is there any technology for improving sprouting in winter initiated ratoon
+- Will trash mulching reduce shoot borer incidence
+- What are the good methods of irrigation
+- What to do if basic quota is reduce
+- What is sugarcane smut
+- How can we conserve our soil fertility
+- What are the salient features of Co 98014 (Karan 1) sugarcane variety
+- What are the benefits of paired row cultivation
+- How much rainfall is required for cultivating sugarcane
+- What are the diagnosable symptoms
+- At what stage of the crop the disease is expected
+- How to control the white grub incidence in sugarcane
+- What are the benefits of detrashing sugarcane
+- How many irrigations are necessary for sugarcane
+- What are the drought management practices recommended for mitigating drought stress in sugarcane
+- What are the major pests of sugarcane
+- What are the varieties that serve best for drought conditions
+- Do the pathogens survive in the soil
+- What is Chip-bud technique
+- How to plant sugarcane in pit method after pit preparation
+- Which is the serious pest of sugarcane in Tamilnadu region
+- When to apply for benefit of Sugarcane Productivity increase in Sugar Cane Department
+- At present, what are the schemes implemented by Sugarcane Department
+- How to get micro-nutrients at subsidized rate under Rashtriya Krishi Vikas Yojna (RKVY)
+- What is the seed rate for cultivating sugar cane
+- When can expect the incidence of Pyrilla pest in sugarcane
+- What are the measurements to create ridges and furrows in case of problem soil before cultivating the sugarcane
+- What are the important things to be kept in mind in Sugar Cane Cultivation
+- What are the early maturing varieties of sugarcane
+- Are pheromones effective for INB management
+- How the red rot disease spreads in sugarcane
+- Whether Cane Cooperative Societies provide loan to the farmers at subsidized rate
+- What are the pre-treatment given to sugarcane sett before planting
+- What is basic quota
+- Is not Sevidol 8G effective against shoot borer
+- What is fertigation system
+- How the Smut disease spreads
+- What is the sett treatment to control the red rot disease
+- What is the chemical control measure for early shoot borer
+- What type of soil is suitable for growing sugarcane
+- Where the seed for sugarcane will be available in areas of TamilNadu
+- Recommend the suitable intercrops in sugarcane
+- What are the varieties available for cultivation
+- Which sugarcane variety has high sugar content and best suited for Kerala
+- What are the varieties that serve for resistance of red rot
+- What are the sucking pests of sugarcane prevalent in the regions of TamilNadu
+- What is the nutrient uptake from soil in sugarcane cultivation
+- What are the easy ways to manage drought under field condition
+- What are the irrigation intervals in each phase of sugarcane that must be given
+- Whether yield or sugar content is affected due to drought
+- What is the control for the top borer pest
+- What insecticide is best for sett treatment against scale insect
+- How long a harvested cane can be kept without deterioration
+- When already mated male moths are attracted to the pheromone traps how the trap will be effective
