@@ -9,3 +9,4 @@ policies:
   - name: MemoizationPolicy
   - name: TEDPolicy
   - name: MappingPolicy
+  - name: KerasPolicy
