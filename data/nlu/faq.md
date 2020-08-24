@@ -244,5 +244,3 @@
 - For how many days, the sugarcane field should be maintained weed free
 - Dose SWA cause itching on the body
 - why is my sugarcane leaves turning yellow
-- ನನ್ನ ಕಬ್ಬಿನ ಎಲೆ ಏಕೆ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದೆ
-- why is my leaves turning yellow
