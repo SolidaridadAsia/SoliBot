@@ -256,18 +256,18 @@
 - Family of suger cane.?
 - What is I3SF?
 - What are the major tea producing states in North India
-- 18.What conditions does palm oil need to grow?
+- What conditions does palm oil need to grow?
 - What are the recommended dosage of Foliar Nutrients for Tea?
 - Caffeine
 - What is the area required for raising one lakh plants
 - Explain Manufacturing of Tea
--  13.what is the cultivation acre of sugarcane?
+- what is the cultivation acre of sugarcane?
 - What are the methods of plucking?
 - Pruning season
 - What is Tea?
 - When tea becomes a popular drink?
 - steps involved in manufacturing of tea 
-- 19.What is palm oil and why is it used
+- What is palm oil and why is it used
 - What is Red Spider Mite in Tea?
 - Tea Planting
 - tea plant Diseases
@@ -276,8 +276,8 @@
 - Earthing should be done in the month .
 - What is the term weedicide
 - What are the major & Minor nutrients for tea
--  2.brix reading should be for proper maturity  sugarcane.
-- 15.zero tillage is mostly practised?
+- brix reading should be for proper maturity  sugarcane.
+- zero tillage is mostly practised?
 - CTC tea means
 - Ideal Climate and soil for tea Cultivation
 - Training and Pruning young tea
@@ -286,22 +286,22 @@
 - What is made tea 
 - Yield in tea
 - what is the term tipping in Tea
--  21.whar are there a difference between palm oil and coconut oil?
+- whar are there a difference between palm oil and coconut oil?
 - Tea planting After care
 - What is the ideal ph of Soil for Tea
 - What is meant by black Tea?
 - What is the time of tipping?
 - Varieties of Tea ?
 - What are the types of tea planted in the gardens?
--  1.botianical name of sugarcane.
+- botianical name of sugarcane.
 - What is sustainable sugarcane farming?
 - What is the botanical name of tea
 - What are the leaf standards?
 - tea Propagation?  
-- 8.What is the current status of mechanization in sugarcane in India?
+- What is the current status of mechanization in sugarcane in India?
 - what is pruning?
 - Shade management in tea plantation
-- 12.sugercane forming profit per acre?
+- sugercane forming profit per acre?
 - What is the term mature tea
 - What are the objectives of Manuring in Tea
 - How Pruning is done in tea
@@ -314,30 +314,30 @@
 - Weed management in tea
 - What is Banji in Tea? Factors favouring banji formation in tea
 - What is Shear harvesting? 
-- 9.How can we calculate crop growth rate for sugarcane when we adopt different spacing?
-- 10. most popular platting method in north india?
+- How can we calculate crop growth rate for sugarcane when we adopt different spacing?
+- most popular platting method in north india?
 - What is  propagation
 - What are types of Tea plants available?
 - Harvesting or Plucking in tea
 - What is the term green tea
 - Why do we do soil analysis in Tea
-- 14. best temperature for sugarcane growth is?
+- best temperature for sugarcane growth is?
 - What are the 3 common pests seen in Tea?
 - What is drip irrigation?
 - What is Blister Blight in Tea?
--   5.what is pol suger .?
+- what is pol suger .?
 - When young tea fields are to be manured?
 - What are the tea growing states in South India 
 - What are the ten commandments for plucking
 - What is Orthodox Tea
--    7. Major desease of sugarcane.?
+- Major desease of sugarcane.?
 - What are the acceptable composition of green leaf
-- 1. what advantage does the deccan region have over the north with reference to sugarcane cultivation?
--  20.What big companies use palm oil?
+- what advantage does the deccan region have over the north with reference to sugarcane cultivation?
+- What big companies use palm oil?
 - Place of origin of Tea?
--  17.What is the palm oil crisis?
--  4.  how to calculate suger recovery brix & pol percentage
+- What is the palm oil crisis?
+- how to calculate suger recovery brix & pol percentage
 - tea Vegetative propagation
 - pest Plant Protection in tea
-- 16. what is a Palm oil plation.?
+- what is a Palm oil plation.?
 
