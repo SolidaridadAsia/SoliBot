@@ -9,6 +9,7 @@ intents:
 - bye
 - bot_challenge
 - sugarcane
+- faq
 responses:
   utter_greet:
   - text: Hello! I'm SoliBot. Please feel free to ask me any question you have on Sugarcane.
