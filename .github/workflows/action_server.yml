@@ -3,7 +3,7 @@ on:
     branches:
       - master
     paths:
-    - 'actions/**'
+    - 'data/**'
 
 jobs:
   build_and_deploy:
